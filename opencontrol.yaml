@@ -3,6 +3,6 @@ name: ITSG-33 Definitions
 metadata:
   description: "ITSG-33 Security Control Definitions - taken from https://www.cse-cst.gc.ca/en/publication/itsg-33 "
   maintainers:
-    - damien.trudel@pwgsc.gc.ca
+    - damien.trudel@cds-snc.ca
 standards:
   - ./ITSG-33a.yaml
